@@ -4,6 +4,10 @@
     border: 0;
 }
 
+body {
+    background: red;
+}
+
 .encabezado {
     height: 80px;
     display: block;
